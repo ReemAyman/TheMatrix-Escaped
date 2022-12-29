@@ -1,4 +1,4 @@
-# TheMatrix: Escaped
+# TheMatrix: Escaped :running_man:
 ## Description :memo:
 The project aims to search for the best solution for an environment which consists of the following:
 1. **The World :world_map: :** is a grid consists of cells, and each cell can contain more than one thing.
@@ -22,6 +22,9 @@ There are five search strategies implemented and used to help Neo:
 **Note:** You should have [Java 8](https://www.oracle.com/java/technologies/java8.html) to be able to run the project.
 1. Use the command to clone `git clone origin main` the project in your local PC.
 2. Open the project using any software that runs JVM i.e. [Intellij](https://www.jetbrains.com/idea/download/#section=windows) or [Eclipse](https://www.eclipse.org/downloads/).
+
+
+
 
 ---
 **Disclaimer** :warning:
