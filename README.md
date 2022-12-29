@@ -21,7 +21,7 @@ There are five search strategies implemented and used to help Neo:
 
 ## Getting Started :rocket:
 **Note:** You should have [Java 8](https://www.oracle.com/java/technologies/java8.html) to be able to run the project.
-1. Use the command to clone `git clone origin main` the project in your local PC.
+1. Use the command to clone `git clone https://github.com/ReemAyman/TheMatrix-Escaped.git` the project in your local PC.
 2. Open the project using any software that runs JVM i.e. [Intellij](https://www.jetbrains.com/idea/download/#section=windows) or [Eclipse](https://www.eclipse.org/downloads/).
 
 
